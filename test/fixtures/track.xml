@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<track xmlns="http://www.spotify.com/ns/music/1">
+  <name>Rendez-vu</name>
+  <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+    <name>Basement Jaxx</name>
+  </artist>
+  <album href="spotify:album:6G9fHYDCoyEErUkHrFYfs4">
+    <name>Remedy</name>
+
+    <availability>
+      <territories>AD AE AF AG AL AM AN AO AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BO BR BS BT BW BY BZ CA CC CF CG CH CL CM CN CO CR CU CX CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FK FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GW GY HK HM HN HR HT HU ID IE IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MK ML MN MO MQ MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PR PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TM TR TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE ZA ZM</territories>
+    </availability>
+  </album>
+  <id type="isrc">GBBKS9900090</id>
+  <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:jifqxvlhldde">T  4201715</id>
+  <id type="mbid" href="http://musicbrainz.org/track/e230c541-78fb-4d08-99c9-ebcb111d7058.html">e230c541-78fb-4d08-99c9-ebcb111d7058</id>
+
+  <track-number>1</track-number>
+  <length>345.000000</length>
+  <popularity>0.51368</popularity>
+</track>

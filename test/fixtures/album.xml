@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<album xmlns="http://www.spotify.com/ns/music/1">
+  <name>Remedy</name>
+  <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+    <name>Basement Jaxx</name>
+  </artist>
+  <released>1999</released>
+  <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dpfixqtkld0e">R   426481</id>
+
+  <id type="mbid" href="http://musicbrainz.org/release/3a3685aa-9c4d-42f8-a401-e34a89494041.html">3a3685aa-9c4d-42f8-a401-e34a89494041</id>
+  <id type="upc">634904012922</id>
+  <availability>
+    <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+  </availability>
+</album>
