@@ -1,9 +1,20 @@
 module MetaSpotify
-  class Track < MetaSpotify::Item
-    attr_reader :album, :artist, :track_number, :length, :popularity
+  class Track < MetaSpotify::Base
+    
+    URI_REGEX = /^spotify:track:[A-Za-z0-9]+$/
+  
+    attr_reader :album, :artists, :track_number, :length, :popularity
+    
     def initialize(hash)
       @name = hash['name']
-      @artist = Artist.new(hash['artist']) if hash.has_key? 'artist'
+      if hash.has_key? 'artist'
+        @artists = []
+        if hash['artist'].is_a? Array
+          hash['artist'].each { |a| @artists << Artist.new(a) }
+        else
+          @artists << Artist.new(hash['artist'])
+        end
+      end
       @album = Album.new(hash['album']) if hash.has_key? 'album'
       @track_number = hash['track_number'].to_i if hash.has_key? 'track_number'
       @popularity = hash['popularity'].to_f if hash.has_key? 'popularity'

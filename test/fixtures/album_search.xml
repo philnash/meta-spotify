@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<albums xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="foo"/>
+  <opensearch:totalResults>6</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <album href="spotify:album:7KXRgAg4K6eXjlYIIXzt3T">
+    <name>Foo Foo</name>
+
+    <artist href="spotify:artist:26f4AleqP7pfXnnzVADpue">
+      <name>Santana</name>
+    </artist>
+    <id type="upc">828767561950</id>
+    <popularity>0.29921</popularity>
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NC NE NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZM ZW</territories>
+
+    </availability>
+  </album>
+  <album href="spotify:album:4EnNuo8fG7dMoxMefbApRY">
+    <name>Foo Fighters</name>
+    <artist href="spotify:artist:7jy3rLJdDQY21OgRLCZ9sD">
+      <name>Foo Fighters</name>
+    </artist>
+    <id type="upc">828765549622</id>
+
+    <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:w9foxquhldje">R   218299</id>
+    <id type="mbid" href="http://musicbrainz.org/release/d6591261-daaa-4bb2-81b6-544e499da727.html">d6591261-daaa-4bb2-81b6-544e499da727</id>
+    <popularity>0.01761</popularity>
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW</territories>
+    </availability>
+  </album>
+
+  <album href="spotify:album:4o695vdG9MVpGwC0Shwa0m">
+    <name>Maximum Foo Fighters</name>
+    <artist href="spotify:artist:5YIP8GFVMuSuAeQhOYJcru">
+      <name>Chrome Dreams - CD Audio Series</name>
+    </artist>
+    <id type="upc">669910532720</id>
+    <popularity>0.6177</popularity>
+
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</territories>
+    </availability>
+  </album>
+  <album href="spotify:album:2jZQWWnMEYcu9PdtV7hsM4">
+    <name>More Maximum Foo Fighters: The Unauthorised Biography Of Foo Fighters</name>
+    <artist href="spotify:artist:5YIP8GFVMuSuAeQhOYJcru">
+      <name>Chrome Dreams - CD Audio Series</name>
+
+    </artist>
+    <id type="upc">669910318751</id>
+    <popularity>0.39753</popularity>
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</territories>
+    </availability>
+  </album>
+
+  <album href="spotify:album:0qNWA2H7IyVI1FLQ5Rtog4">
+    <name>Lush Lullaby Renditions Of The Foo Fighters</name>
+    <artist href="spotify:artist:3mGCLimuzOdod4Lnegny4d">
+      <name>Twinkle Twinkle Little Rock Star</name>
+    </artist>
+    <id type="upc">881034374097</id>
+    <popularity>0.51871</popularity>
+
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</territories>
+    </availability>
+  </album>
+  <album href="spotify:album:1cBouvVYNCfeZBNOp12cjY">
+    <name>Ordinary Heroes: The String Quartet Tribute To Foo Fighters</name>
+    <artist href="spotify:artist:6MERXsiRbur2oJZFgYRDKz">
+      <name>Vitamin String Quartet</name>
+
+    </artist>
+    <id type="upc">027297944824</id>
+    <popularity>0.0</popularity>
+    <availability>
+      <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</territories>
+    </availability>
+  </album>
+
+</albums>

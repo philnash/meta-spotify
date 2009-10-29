@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artists xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="foo"/>
+  <opensearch:totalResults>9</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <artist href="spotify:artist:7jy3rLJdDQY21OgRLCZ9sD">
+    <name>Foo Fighters</name>
+
+    <popularity>0.89217</popularity>
+  </artist>
+  <artist href="spotify:artist:6iEinlrmGT9lMfK0DujCbT">
+    <name>Kung Foo</name>
+    <popularity>0.22487</popularity>
+  </artist>
+  <artist href="spotify:artist:68X7EQtVYHuUAYoFilK3wE">
+
+    <name>Kommil Foo</name>
+    <popularity>0.18295</popularity>
+  </artist>
+  <artist href="spotify:artist:6AcNCnxChWevoeQ3RCNNXV">
+    <name>Alley Foo</name>
+    <popularity>0.12133</popularity>
+  </artist>
+
+  <artist href="spotify:artist:7qiLrKoGb00lbCSBkJGKoU">
+    <name>Francisco Foo</name>
+    <popularity>0.02733</popularity>
+  </artist>
+  <artist href="spotify:artist:7BwOCTBw5XiJ7ZG2xIL8u8">
+    <name>Karaoke - Foo Fighters</name>
+    <popularity>0.455</popularity>
+
+  </artist>
+  <artist href="spotify:artist:5lFV7NQB7tTEVEDDUG5lXk">
+    <name>Foo Kit Yan</name>
+    <popularity>0.0</popularity>
+  </artist>
+  <artist href="spotify:artist:0lY11VKK3dHkSxoWyfBNti">
+    <name>Foo Yun Guang</name>
+
+    <popularity>0.0</popularity>
+  </artist>
+  <artist href="spotify:artist:40PrhCEaf2WsLaoUQgiZKv">
+    <name>Kung Foo Preacher</name>
+    <popularity>0.0</popularity>
+  </artist>
+</artists>

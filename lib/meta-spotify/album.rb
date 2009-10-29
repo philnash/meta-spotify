@@ -1,9 +1,20 @@
 module MetaSpotify
-  class Album < MetaSpotify::Item
-    attr_reader :released, :artist, :uri, :available_territories
+  class Album < MetaSpotify::Base
+    
+    URI_REGEX = /^spotify:album:[A-Za-z0-9]+$/
+    
+    attr_reader :released, :artists, :available_territories
+    
     def initialize(hash)
       @name = hash['name']
-      @artist = Artist.new(hash['artist']) if hash.has_key? 'artist'
+      if hash.has_key? 'artist'
+        @artists = []
+        if hash['artist'].is_a? Array
+          hash['artist'].each { |a| @artists << Artist.new(a) }
+        else
+          @artists << Artist.new(hash['artist'])
+        end
+      end
       @released = hash['released'] if hash.has_key? 'released'
       @uri = hash['href'] if hash.has_key? 'href'
       @available_territories = if hash.has_key?('availability') && hash['availability'].has_key?('territories')
