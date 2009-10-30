@@ -19,10 +19,13 @@ module MetaSpotify
       query = {:q => string}
       query[:page] = opts[:page].to_s if opts.has_key? :page
       result = get("/search/#{API_VERSION}/#{item_name}", :query => query, :format => :xml)
+      raise_errors(result)
       result = result[item_name+'s']
       items = []
-      result[item_name].each do |item|
-        items << self.new(item)
+      unless result[item_name].nil?
+        result[item_name].each do |item|
+          items << self.new(item)
+        end
       end
       return { (item_name+'s').to_sym => items,
                :query => {
@@ -36,10 +39,13 @@ module MetaSpotify
               }
     end
     
-    def self.lookup(uri)
+    def self.lookup(uri, opts={})
       uri = uri.strip
       raise URIError.new("Spotify URI not in the correct syntax") unless self::URI_REGEX.match(uri)
-      result = get("/lookup/#{API_VERSION}",:query => {:uri => uri}, :format => :xml)
+      query = {:uri => uri}
+      query[:extras] = opts[:extras] if opts.has_key? :extras
+      result = get("/lookup/#{API_VERSION}/",:query => query, :format => :xml)
+      raise_errors(result)
       result.each do |k,v|
         case k
         when "artist"
@@ -49,6 +55,25 @@ module MetaSpotify
         when "track"
           return Track.new(v)
         end
+      end
+    end
+    
+    private
+    
+    def self.raise_errors(response)
+      case response.code
+      when 400
+        raise BadRequestError.new('400 - The request was not understood')
+      when 403
+        raise RateLimitError.new('403 - You are being rate limited, please wait 10 seconds before requesting again')
+      when 404
+        raise NotFoundError.new('404 - That resource could not be found.')
+      when 406
+        raise BadRequestError.new('406 - The requested format isn\'t available')
+      when 500
+        raise ServerError.new('500 - The server encountered an unexpected problem')
+      when 503
+        raise ServerError.new('503 - The API is temporarily unavailable')
       end
     end
     
@@ -63,6 +88,10 @@ module MetaSpotify
     end
   end
   class URIError < MetaSpotifyError; end
+  class RateLimitError < MetaSpotifyError; end
+  class NotFoundError < MetaSpotifyError; end
+  class BadRequestError < MetaSpotifyError; end
+  class ServerError < MetaSpotifyError; end
 end
 
 require 'meta-spotify/artist'

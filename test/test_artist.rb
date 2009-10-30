@@ -24,7 +24,7 @@ class TestArtist < Test::Unit::TestCase
   context "looking up an artist" do
     setup do
       FakeWeb.register_uri(:get,
-                           "http://ws.spotify.com/lookup/1?uri=#{CGI.escape(ARTIST_URI)}",
+                           "http://ws.spotify.com/lookup/1/?uri=#{CGI.escape(ARTIST_URI)}",
                            :body => fixture_file("artist.xml"))
       @result = MetaSpotify::Artist.lookup(ARTIST_URI)
     end

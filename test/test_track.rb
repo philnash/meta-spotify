@@ -35,7 +35,7 @@ class TestTrack < Test::Unit::TestCase
   context "looking up a track" do
     setup do
       FakeWeb.register_uri(:get,
-                           "http://ws.spotify.com/lookup/1?uri=#{CGI.escape TRACK_URI}",
+                           "http://ws.spotify.com/lookup/1/?uri=#{CGI.escape TRACK_URI}",
                            :body => fixture_file("track.xml"))
       @result = MetaSpotify::Track.lookup(TRACK_URI)
     end
