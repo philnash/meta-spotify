@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
      ".gitignore",
+     "HISTORY",
      "LICENSE",
      "README.rdoc",
      "Rakefile",
@@ -27,6 +28,7 @@ Gem::Specification.new do |s|
      "lib/meta-spotify/album.rb",
      "lib/meta-spotify/artist.rb",
      "lib/meta-spotify/track.rb",
+     "meta-spotify.gemspec",
      "test/fixtures/album.xml",
      "test/fixtures/album_search.xml",
      "test/fixtures/artist.xml",
