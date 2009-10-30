@@ -6,13 +6,14 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "meta-spotify"
     gem.summary = %Q{A ruby wrapper for the Spotify Metadata API}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{A ruby wrapper for the Spotify Metadata API}
     gem.email = "philnash@gmail.com"
     gem.homepage = "http://github.com/philnash/meta-spotify"
     gem.authors = ["philnash"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
+  Jeweler::GemcutterTasks.new
 rescue LoadError
   puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
 end
