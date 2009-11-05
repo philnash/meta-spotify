@@ -4,6 +4,10 @@ A ruby wrapper for the Spotify Metadata API. See here for usage: http://develope
 
 Use of the API is subject to the Terms and Conditions: http://developer.spotify.com/en/metadata-api/terms-of-use/
 
+## Installation
+
+    gem install meta-spotify
+
 ## Usage
 
 The API has two services for the three types of data, artists, albums and tracks:
