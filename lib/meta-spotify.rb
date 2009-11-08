@@ -1,5 +1,3 @@
-require 'rubygems'
-
 $:.unshift File.dirname(__FILE__)
 
 require 'httparty'
