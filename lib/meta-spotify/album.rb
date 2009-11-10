@@ -3,7 +3,8 @@ module MetaSpotify
     
     URI_REGEX = /^spotify:album:[A-Za-z0-9]+$/
     
-    attr_reader :released, :artists, :available_territories, :tracks
+    attr_reader :released, :artists, :available_territories, :tracks, :upc, 
+                :musicbrainz_id, :musicbrainz_href, :allmusic_id, :allmusic_href
     
     def initialize(hash)
       @name = hash['name']
@@ -25,6 +26,23 @@ module MetaSpotify
       end
       @released = hash['released'] if hash.has_key? 'released'
       @uri = hash['href'] if hash.has_key? 'href'
+      
+      if hash['id'].is_a? Array
+        
+        hash['id'].each do |id|
+          case id.attributes['type']
+            when 'upc' then 
+              @upc = id
+            when 'mbid' then
+              @musicbrainz_id = id
+              @musicbrainz_href = id.attributes['href']
+            when 'amgid' then 
+              @allmusic_id = id
+              @allmusic_href = id.attributes['href']
+          end
+        end
+      end
+      
       @available_territories = if hash.has_key?('availability') && !hash['availability']['territories'].nil?
         hash['availability']['territories'].split(/\s+/).map {|t| t.downcase } || []
       else
@@ -33,12 +51,11 @@ module MetaSpotify
     end
     
     def is_available_in?(territory)
-      return @available_territories.include?('worldwide') || @available_territories.include?(territory.downcase)
+      (@available_territories.include?('worldwide') || @available_territories.include?(territory.downcase))
     end
     
     def is_not_available_in?(territory)
-      return !is_available_in?(territory)
+      !is_available_in?(territory)
     end
-    
   end
 end

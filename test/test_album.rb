@@ -48,6 +48,9 @@ class TestAlbum < Test::Unit::TestCase
       assert_kind_of MetaSpotify::Album, @result
       assert_equal "Remedy", @result.name
       assert_equal "1999", @result.released
+      assert_equal "634904012922", @result.upc
+      assert_equal "3a3685aa-9c4d-42f8-a401-e34a89494041", @result.musicbrainz_id
+      assert_equal "http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:dpfixqtkld0e", @result.allmusic_href
     end
     should "create an artist object for that album" do
       assert_kind_of Array, @result.artists
