@@ -38,4 +38,18 @@ class TestArtist < Test::Unit::TestCase
       end
     end
   end
+  
+  context "looking up an artist with detailed album information" do
+    setup do
+      FakeWeb.register_uri(:get,
+                           "http://ws.spotify.com/lookup/1/?extras=albumdetail&uri=#{CGI.escape(ARTIST_URI)}",
+                           :body => fixture_file("artist_with_albumdetail.xml"))
+      @result = MetaSpotify::Artist.lookup(ARTIST_URI, :extras => 'albumdetail')
+    end
+    should "fetch an artist and return an artist object with detailed album information" do
+      assert_kind_of MetaSpotify::Artist, @result
+      assert_kind_of MetaSpotify::Album, @result.albums.first
+      assert_equal "Jaxx Unreleased", @result.albums.first.name
+    end
+  end
 end
