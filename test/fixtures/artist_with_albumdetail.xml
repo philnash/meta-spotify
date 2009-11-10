@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artist xmlns="http://www.spotify.com/ns/music/1">
+  <name>Basement Jaxx</name>
+  <albums>
+    <album href="spotify:album:4iMh930ASjKvgFhA19mVGa">
+      <name>Jaxx Unreleased</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:37y0zJPIoTBQSVPLS1MS2d">
+      <name>MMS Canada Hott Trakks 278</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:7ATfejtcj1QWrMtUJyJEXJ">
+      <name>DJ Promotion CD Pool Techno-40</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7tQWTAAtI6K0fOOIpwTSa5">
+      <name>Red Alert</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1999</released>
+
+      <id type="upc">634904110093</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3Jp6HT6zFqAAMpIZILBAsw">
+      <name>Lucignolo Bellavita Vol. 3</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:5IM88rf4x8doOwSX5301le">
+      <name>Hed Kandi: Disco Kandi 05.03</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2003</released>
+      <id type="mbid" href="http://musicbrainz.org/release/d08e2631-b3d4-4fad-9134-e9658d998146.html">d08e2631-b3d4-4fad-9134-e9658d998146</id>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:0FfUCDzzjOgzuQDtKgHUaf">
+      <name>Dallas  Sampler 08-06</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6W4wZnnzTNTMRoBOGVRTjD">
+      <name>Rooty (Retag Advance)</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:1Fmve6G1q6kFRYceGttj18">
+      <name>Where's Your Head At</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2001</released>
+      <id type="mbid" href="http://musicbrainz.org/release/a7a6c88e-0038-4547-9338-cb6b64cdb51d.html">a7a6c88e-0038-4547-9338-cb6b64cdb51d</id>
+
+      <id type="upc">634904114039</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4OxWZvWM3xVFQOtrVCvaem">
+      <name>Hush Boy</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <availability>
+        <territories>DE</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:1rLFcjhiTQT229avwyrtVk">
+      <name>Take Me Back To Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">634904925383</id>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5OT7WPcCjYQkxmuFOzIHO7">
+      <name>Span Thang EP</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2001</released>
+      <id type="mbid" href="http://musicbrainz.org/release/20c53d8f-d3ff-492b-a628-8bd9b25b9b2c.html">20c53d8f-d3ff-492b-a628-8bd9b25b9b2c</id>
+      <id type="upc">5050294113561</id>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7eYCINUWlN8cu1RgOwHqV6">
+      <name>Lunchbox artshow</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1yQTmIIZSyC4ZoFlW8TUQO">
+      <name>XL recs</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+
+        <name>Basement Jaxx</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6bCSRyF2de6r4zDXnaJRZA">
+
+      <name>Only Canada Rhythm Radio November</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+
+    </album>
+    <album href="spotify:album:0vQbb9UeAU7R8wk3ZAjNx6">
+      <name>Crazy Itch Radio</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dcfoxqqdldje">R   852291</id>
+      <id type="mbid" href="http://musicbrainz.org/release/a141c6d9-6116-4dde-92a6-7cd7f763d070.html">a141c6d9-6116-4dde-92a6-7cd7f763d070</id>
+      <id type="upc">634904920562</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:7n414nf8tGwPMBcDmNxYDf">
+      <name>Ministry of Sound: Dance Nation Anthems</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2002</released>
+      <id type="mbid" href="http://musicbrainz.org/release/08927b77-3380-40ad-8f76-0ae24539bb9a.html">08927b77-3380-40ad-8f76-0ae24539bb9a</id>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1pP0RxAe7ix0gPwW1cpwii">
+      <name>Queer Eye for the Straight Guy</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released>2004</released>
+      <id type="mbid" href="http://musicbrainz.org/release/7dbf4045-2573-41f6-bd8c-fced0a2c37d3.html">7dbf4045-2573-41f6-bd8c-fced0a2c37d3</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:3J4xa9wXB6V5F7zX1KmIHK">
+
+      <name>Take Me Back to Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904224264</id>
+      <availability>
+
+        <territories>AT BE CH DE DK ES FI FR GR IT LU NL NO PT SE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6gJa2DUmULgrxZPMvkDxs5">
+      <name>DJ Promotion CD Pool House 82</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:0QUoWy74ldV5Zsus56AtzZ">
+      <name>Hed Kandi: Nu Cool 2007</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+      <id type="mbid" href="http://musicbrainz.org/release/4885ea89-a8a1-4c6d-a0c7-6f2e24dbaa0b.html">4885ea89-a8a1-4c6d-a0c7-6f2e24dbaa0b</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:2rHXrKVd30NAaJM8112zTE">
+      <name>The Singles Part II</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <availability>
+        <territories>DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:17wfSzA1mcvvQGYcg607cF">
+      <name>Worlds Dance Music September Part 2</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:5aC45HeC7IN1EjEGIyV6GG">
+      <name>The No. 1 Euphoric Dance Album, Volume 2</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+      <id type="mbid" href="http://musicbrainz.org/release/0ea43d70-6012-4d7a-8794-923abf94f600.html">0ea43d70-6012-4d7a-8794-923abf94f600</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7s6PzcY24y8ccYirm5bU9Y">
+      <name>DJ Promotion CD Pool Tech-Mix 74</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7oJ41GJEYeZmU6VF9V3n4b">
+      <name>BPM 06-12</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1P6reHC0j4dMQ4hHDoXZ50">
+      <name>For UA DANCE 277</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:0VURhgb8v17Jpr34kpfm7C">
+      <name>Red Alert</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1999</released>
+      <id type="upc">634904110024</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6AU5AwFu0lT4EHgiavogtP">
+      <name>NOW Autumn 2007</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released>2007</released>
+      <id type="mbid" href="http://musicbrainz.org/release/9c43420e-7da8-4b83-80d6-e0f10fa8e7fe.html">9c43420e-7da8-4b83-80d6-e0f10fa8e7fe</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7t09dzfM3VnqmP6H7P8zsj">
+
+      <name>Hey U</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2007</released>
+      <id type="upc">609008244869</id>
+      <availability>
+
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7gljDo33wlUkdGGVwkKDMG">
+      <name>Atlantic Jaxx - A Compilation Vol 1</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released>2001</released>
+      <id type="upc">5051083041171</id>
+      <availability>
+        <territories>GB</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:2lVEyepwP5bHVZDUhzXPp0">
+      <name>Atlantic Jaxx - A Compilation Vol 2</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">5051083041188</id>
+
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4aEutZ6oH61VN86frKAS6g">
+      <name>XL Recordings</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:3ZcJdJN7mWB9USrSltD2rX">
+      <name>Got The Bug 2</name>
+
+      <artist href="spotify:artist:3UbnYRfDPL3L74oFrJJxxv">
+        <name>Bugz in the Attic</name>
+      </artist>
+      <released>2009</released>
+      <id type="upc">730003112645</id>
+      <availability>
+        <territories>GB IE</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:6OXWxQttDIEBfyPZ4mo8k7">
+      <name>For UA POP 280</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:3eTQl6ZlCWWt0iUAHOqoi0">
+      <name>Defected in the House Miami 2007</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6d7YhbinT51CbKltEuhAlF">
+      <name>Bee Free</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1996</released>
+      <id type="upc">5050023014251</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7CkLWLuXswuDQbLtq07X0l">
+      <name>Take Me Back To Your House (Remix Single 2)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">634904325367</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0vud8VwuTvVEgnO6fJoULZ">
+      <name>DJ Promotion CD Pool House 106</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:4kN5xI48IqTcb5oUA2K6hf">
+      <name>Hush Boy</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904224165</id>
+
+      <availability>
+        <territories>GB GG IE IM JE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6vIV3JMobkIlujKiVW09Hh">
+      <name>Make Me Sweat</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2007</released>
+      <id type="mbid" href="http://musicbrainz.org/release/cf969c39-70a3-4a4c-9c24-3059e7630b81.html">cf969c39-70a3-4a4c-9c24-3059e7630b81</id>
+      <id type="upc">5050954155580</id>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:4K4JcbMtrhjpopi68X1SqY">
+      <name>Oh My Gosh</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">634904120962</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6zixtTSG5egcPemhyQuO8Y">
+      <name>For UA POP 277</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:03xMGMXiO9usr0zzeXBLUq">
+      <name>Hit Trax 730</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:1eADBZjaoVW9lPazpaEY1b">
+      <name>Whitedisc</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2ZpznbW9orc6M5SEqoouai">
+      <name>Absolute Dance 22</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released>1999</released>
+      <id type="mbid" href="http://musicbrainz.org/release/4259a03a-1da0-4e94-b70c-3c487989e245.html">4259a03a-1da0-4e94-b70c-3c487989e245</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:3iDuxOzb7Wd7h1m4Xtzik4">
+
+      <name>Tuning Hitz 2006</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+
+    </album>
+    <album href="spotify:album:5sn8mZK0uEa8f6iJSba3jm">
+      <name>Take Me Back to Your House-UKC</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released/>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7F77oDhmAYdTy0XpAQG7t1">
+      <name>Do Your Thing</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <released>2005</released>
+      <id type="upc">634904122096</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7kMyLQfyL13v3Qqmmq5B5L">
+
+      <name>2007 Oimusic Best Sampler Vol 02</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+
+    </album>
+    <album href="spotify:album:1THIFRpn89tU1GoSZw53EJ">
+      <name>U Don't Know Me</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <availability>
+        <territories>DE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7LBVFxwWco7jGfn6DKNb75">
+      <name>Live at SonneMondSterne Festival (Saalburg)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:4zqhSYNBGb5DE43RNdsKQq">
+      <name>The Stanton Session</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2001</released>
+      <id type="upc">634904014421</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:2dw3OuutHDs8GGdv2Ab4R7">
+      <name>Take Me Back To Your House (Remix Single 1)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">634904225360</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:11iiTvb9WuT8F3SSR1TLUp">
+      <name>De Maxx: Long Player 10 House Edition</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2006</released>
+      <id type="mbid" href="http://musicbrainz.org/release/e1fba0f8-d109-4588-bee2-8a281002a3e7.html">e1fba0f8-d109-4588-bee2-8a281002a3e7</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7cQ3HqZc1Rz1H6Wcm0IhW4">
+      <name>The Singles</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">634904018733</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0O0iObPs0TqY07Bbs1aQgb">
+      <name>Ministry of sound The Annual 2006</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:6zclthMfbgGBPIUQmrPajo">
+      <name>U Don't Know Me</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">634904121556</id>
+
+      <availability>
+        <territories>GB GG IE IM JE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:36GA1LrnPgJO2ABcAEWr9t">
+      <name>Radio Activity 0610</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:26CDIhvotLcNC4z97M7P1u">
+      <name>Romeo</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2001</released>
+      <id type="upc">634904113223</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:3BgCtfIMzTDelCThZfEWIZ">
+      <name>Do Your Thing</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">609008237953</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:17DcKBb78bg0lUlWM7L70s">
+      <name>Bongoid</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:23ok3ayhhYk2UPw6fX9c8V">
+      <name>Fly Life Xtra</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">5050954118264</id>
+
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7kFtQxDgj6wTUh02xgpKIq">
+      <name>Take Me Back To Your House (Kurd Maverick Remix)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904525361</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:4zvTxPSDfgIwbKtnt7oInh">
+      <name>Deep  Hits 13- (Bootleg)</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:3u4EsKxncDDXa1v2AWPS0y">
+      <name>Lara Croft: Tomb Raider</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2001</released>
+
+      <id type="mbid" href="http://musicbrainz.org/release/04c8bd8e-25d8-4e44-a53d-383d56af8310.html">04c8bd8e-25d8-4e44-a53d-383d56af8310</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2wFk7WuKo16aJyvw4uSGVd">
+      <name>Defected In The House Miami 20</name>
+      <artist>
+
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:5K7r3Yt1SYieHflUM1ZENM">
+
+      <name>Lucky Star</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2003</released>
+      <id type="upc">634904117221</id>
+      <availability>
+
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4tWSeJfRAzwcevIygsdqAX">
+      <name>Scars</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2009</released>
+      <id type="upc">634904045364</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:72QvaTgylGuqn98LcgiAGi">
+      <name>Jump n' Shout</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1999</released>
+      <id type="upc">634904111625</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:0WgGdHtxwwZhMH9J9IWVjo">
+      <name>Club Mix 2002</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <id type="mbid" href="http://musicbrainz.org/release/0e3348eb-79e7-4f28-b73d-3e515a7f19be.html">0e3348eb-79e7-4f28-b73d-3e515a7f19be</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6VDSTMPnsSI9UobRftPHJz">
+
+      <name>Oh My Gosh</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <availability>
+        <territories>DE</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:37UznznnHKD4GAfRf8Kcob">
+      <name>Arriba La Cumbia!</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2008</released>
+
+      <id type="upc">5410377901384</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:64Y7cWNJ3mMPKRdBVD8xCQ">
+      <name>Take Me Back To Your House (Kwality Kontrol Remix)</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904725365</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:5E61aWNKKTTw6z9nsFh2ME">
+      <name>Do Your Thing</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">609008237854</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7p1yoo10XoBiDtXhkTr1Py">
+      <name>Beatbox 06-17</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:5yTEOEQfnxZ175vEOdDgc8">
+      <name>Absolute Music 37</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2001</released>
+      <id type="mbid" href="http://musicbrainz.org/release/edcbc39b-c234-47c2-8fa7-d3f5d09b0d6c.html">edcbc39b-c234-47c2-8fa7-d3f5d09b0d6c</id>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2RavlCuCDOYvirfMRerXwR">
+      <name>DJ Promotion CD Pool House 87</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:3riUvxVePBHEjexF6GfF80">
+      <name>Do Your Thing</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">634904122027</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7gxFVKuc5tQQ5JAWpvZido">
+      <name>Hush Boy</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">609008243060</id>
+      <availability>
+        <territories>AU</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2sDphVMueyDCHZZvktsqYK">
+      <name>Let's Go Crazy</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2009</released>
+      <id type="upc">885012002255</id>
+      <availability>
+        <territories>GB IE</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:1n5VmurWbPUCKJIu9i78oW">
+      <name>Absolute Dance 2002</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2002</released>
+
+      <id type="mbid" href="http://musicbrainz.org/release/937c67f3-b39b-4a98-ba78-593e298c2c18.html">937c67f3-b39b-4a98-ba78-593e298c2c18</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:4lb09wbiuv8SMUNzRYmSf1">
+      <name>U Don’t Know Me</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">634904121587</id>
+      <availability>
+        <territories>GB GG IE IM JE</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:6aniYnl3kDSQvGlXXKc1SD">
+      <name>Absolute Dance Summer 2001</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2001</released>
+
+      <id type="mbid" href="http://musicbrainz.org/release/9cd09cf1-c89a-4015-8d9e-d3fac3251633.html">9cd09cf1-c89a-4015-8d9e-d3fac3251633</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1HSSAN7Mk9WQYJwyCn8bX8">
+      <name>Oh My Gosh</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">634904120924</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:0ctqnxZhgrUbwFLkHO8HBe">
+      <name>Take Me back To Your House (Speaker Junk Remix)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">634904625368</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7GRt6m2QW4oN1Yq0CvUQRl">
+      <name>Hush Boy</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904124168</id>
+      <availability>
+        <territories>GB GG IE IM JE</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:1Mkvdw6Thd1VxYKs1TrRvv">
+      <name>Jus 1 Kiss</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2001</released>
+
+      <id type="upc">634904113629</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7L9ih9f32Bkyu9hO6yqrIF">
+      <name>Summer Sun Hits</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:2QTBhnBRRVTtkQvsw6dCAG">
+      <name>Raindrops</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2009</released>
+      <id type="upc">634904144463</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:7r5qtjTu35zw1C17K3AmEc">
+      <name>Euro Express 689U</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:4TBJMlx11SGD7iK79WDWzW">
+      <name>The White Disc 217</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+
+    <album href="spotify:album:71X8bpxczD2St3yRSUqrtq">
+      <name>Take Me Back To Your House (Balti Skool Mix)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904825362</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:18S7057DBrMmxv3DfDnnTn">
+      <name>Jus 1 Kiss</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2001</released>
+      <id type="upc">634904113698</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:3K1t8meNvv1m1l2BKrEnvj">
+      <name>Camberwell Skies</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:290frmvoEAdUtrwypOdMkD">
+      <name>Take Me Back To Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="upc">634904825386</id>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:1g7zOpm5iGVE7iRSFEwkes">
+      <name>The Disco Boys - Volume 7</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:48sNUKpyT0iWQWxd9mulAw">
+      <name>Dance Express 703D</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6G9fHYDCoyEErUkHrFYfs4">
+      <name>Remedy</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <released>1999</released>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dpfixqtkld0e">R   426481</id>
+      <id type="mbid" href="http://musicbrainz.org/release/3a3685aa-9c4d-42f8-a401-e34a89494041.html">3a3685aa-9c4d-42f8-a401-e34a89494041</id>
+      <id type="upc">634904012922</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:1YQmWKrXp3kkWwd05RNXAX">
+      <name>Euro Xclusive 06-33</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1iw0wZ5y3nMJP0tZWGCl8h">
+      <name>Take Me back To Your House (Jaxx Extended Mix)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904425364</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:7tMkW46tzCNsMu21KDODAl">
+      <name>Pepsi More Music Best of 2006</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:6WfArfvDT2ft5mLSvLBXPE">
+      <name>DMC Essential hits vol 20</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6lPqmylaRiHU6De2rIySNr">
+      <name>Good Luck</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2003</released>
+      <id type="upc">634904119027</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:7fnD3JPdV7gXtJ08JghUzc">
+      <name>CD Pool Classic 52</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7fJwe9CptQAMCh980fztzt">
+      <name>Plug It In</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2004</released>
+
+      <id type="upc">634904118020</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:2pCSZKXIOTd60rPXx0MFIx">
+      <name>Raindrops</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2009</released>
+      <id type="upc">634904044466</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:2kYlHH2QpeqVzrPqz71Ji6">
+      <name>Kiss Does...Funky House</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2SK9YVQrN5XSWji8VpghZC">
+      <name>Take Me Back To Your House (Felix B Big Houz Dub)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904925369</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:3BLjwFkMc2kL9dxa9s6Lad">
+      <name>Bingo Bango</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2000</released>
+      <id type="upc">634904112028</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4nZj3cUjZOYh9C5HIN5f3f">
+      <name>My Turn E.P.</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2009</released>
+      <id type="upc">634904047566</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:0rYhldd3qwynJOx1GQk1qA">
+
+      <name>Radio Activity 0612</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+
+    </album>
+    <album href="spotify:album:1gpqrZPxZGNmEBW6ffnEF7">
+      <name>Wild Summer 07</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2l9ho2a73uQjiF9oks9ziJ">
+      <name>N-Tune Main Floor Club August</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2cmcuFJVuhzFzHYi264Ofo">
+      <name>Do Your Thing</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">609008237755</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+
+    </album>
+    <album href="spotify:album:3n9DfRAVzuqayXOpydXdDK">
+      <name>Maximum Workout - The Workout Mix</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+
+      <id type="upc">884385515904</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6arYFq8YqA8HgqEVDMtdUG">
+      <name>Get Me Off</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2002</released>
+      <id type="upc">634904114626</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:4ykazGDKb1XgA4fomxak1F">
+      <name>Do Your Thing</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">634904122065</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:31sd2G96nS9HlNWTGCGH1r">
+      <name>Hed Kandi: Back to Love: True Club Classics</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2006</released>
+      <id type="mbid" href="http://musicbrainz.org/release/8045a3ff-7552-4fc5-af2d-c01f8359ed39.html">8045a3ff-7552-4fc5-af2d-c01f8359ed39</id>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:4g3WqaedscRPZRnCg9hQuM">
+      <name>Oh My Gosh</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+
+      <id type="upc">634904120955</id>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:4izxtvfT7jdrdqu4P8q0Qy">
+      <name>Jaxx Unreleased</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1999</released>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:jxfwxq90ldae">R   540525</id>
+      <id type="mbid" href="http://musicbrainz.org/release/40d17aa5-cc38-4c61-9171-c81f68419f4f.html">40d17aa5-cc38-4c61-9171-c81f68419f4f</id>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6qcZ1zlAW1T6Pknnzp0OmW">
+      <name>Commercial Cutz 06-11</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:2H8VVQaAzOCR6K31S8yUyi">
+      <name>DMC Essential Hits vol 18</name>
+      <artist>
+
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1Knt70t2HMtPo5iorwEg7a">
+
+      <name>Fly Life</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">5050954175083</id>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:74dmwmJhagdexfpds4bldZ">
+      <name>Dance Max 2006.03</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:144xPVmnuhGZyXYXfeyBOr">
+      <name>Only Alternative Club January</name>
+      <artist>
+
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:5zrsdzl8Gu5TVGY5ukgMhi">
+
+      <name>Fly Life - Unreleased Mixes</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+      <id type="upc">5051083005340</id>
+      <availability>
+
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6jFu65N7DTJhSEzrhGlpX1">
+      <name>Take Me Back to Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2006</released>
+      <id type="upc">634904725389</id>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:4Kve2q643Y3nN6SLJ3QL4i">
+      <name>Cool Winter Hits 3</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+
+      </availability>
+    </album>
+    <album href="spotify:album:2pRfCwGD1G93pwHHt42mxg">
+      <name>Ministry of Sound presents Clubbers Guide to Spring 2009</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2009</released>
+
+      <id type="upc">00602527175416</id>
+      <availability>
+        <territories>AU NZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6sRHhy8bKhKDYl2Y1Z0ILW">
+      <name>Do Your Thing</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">609008237656</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:0vncrFsYHOCvSKsDPwLXHh">
+      <name>Kish Kash</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2003</released>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:wcfqxqtaldte">R   656919</id>
+      <id type="mbid" href="http://musicbrainz.org/release/5b84ff2c-8287-4cfb-a057-fe66df785ea5.html">5b84ff2c-8287-4cfb-a057-fe66df785ea5</id>
+      <id type="upc">634904017422</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+
+    <album href="spotify:album:16pGUVXjgbNKRbwVDJUuyZ">
+      <name>Dance Music Is Vital - Best of 2007</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+      <id type="upc">5051083011969</id>
+
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3UXIyuARaoPOiLgRkl21o6">
+      <name>Fresh Volume 9</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7FDIZdCYrhwhqvAQOeCzkx">
+      <name>Oh My Gosh</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="upc">634904120993</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:0tAFmk22BtVIoZ9s6TVa4G">
+      <name>Rendez-Vu</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>1999</released>
+
+      <id type="upc">634904111021</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3cbUkE6ZR8Alqg8nzuLapm">
+      <name>Get Me Off</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2002</released>
+      <id type="upc">634904114695</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:5GGRn8tjNueE2zYcFO6AzH">
+      <name>Take Me Back to Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2006</released>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:gzfyxzw5ld0e">R  1033463</id>
+      <id type="mbid" href="http://musicbrainz.org/release/f3d074a9-ed79-47a6-b676-db07840aafd8.html">f3d074a9-ed79-47a6-b676-db07840aafd8</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:1SMI67CGKru8vCOGdgWZJW">
+      <name>Vexille Soundtrack</name>
+
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+      <id type="upc">609008302880</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:6GNQYkgDowzGxl8S1Rx8gL">
+      <name>Tanecni Liga 93</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6S7t0zYkoiAzhDq4uahNyR">
+      <name>Club Azuli 03 2007</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released/>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:51aFwDck8urC5HfpXJ3e6J">
+      <name>Ultra-Obscene</name>
+
+      <artist href="spotify:artist:3jCUQtWLrJNIdLLJ3uzC98">
+        <name>Breakbeat Era</name>
+      </artist>
+      <released>1994</released>
+      <id type="upc">634904013028</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:7hSwTl5Wg4c8PS9wlwBnlP">
+      <name>Vintage FG</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:7C6fuwe0uiJLbhKGWJViJx">
+      <name>Rooty</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <released>2001</released>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:jzfoxqt0ldte">R   536995</id>
+      <id type="mbid" href="http://musicbrainz.org/release/b821473e-4959-40e4-9b40-48b95ecaf36b.html">b821473e-4959-40e4-9b40-48b95ecaf36b</id>
+      <id type="upc">634904014384</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:4Px8Z5EPCjQgNw6m8kjQHx">
+      <name>Vexille</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released>2007</released>
+
+      <id type="upc">609008302804</id>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:6Gv1fOIDgnEfT0RnoUJ65Z">
+      <name>Rooty</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2001</released>
+      <id type="upc">634904014322</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+
+      </availability>
+    </album>
+    <album href="spotify:album:74yy7CzlVUFyE6FAwkO5ZP">
+      <name>Feelings Gone (feat. Sam Sparro)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2009</released>
+
+      <id type="upc">634904046163</id>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:3yBq1HueFUlpggNHPUrRRE">
+      <name>The Singles</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <released>2005</released>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:3zfqxqrsldte">R   735910</id>
+      <id type="mbid" href="http://musicbrainz.org/release/e127853e-861e-4e16-a952-807d6e47833f.html">e127853e-861e-4e16-a952-807d6e47833f</id>
+      <id type="upc">634904018726</id>
+
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <album href="spotify:album:5NO8T8cFnwcR7UZeEwdCnQ">
+      <name>Ministry of Sound: The Annual 2002</name>
+      <artist>
+        <name>Various Artists</name>
+
+      </artist>
+      <released>2001</released>
+      <id type="mbid" href="http://musicbrainz.org/release/8c3dfba3-1ca3-4e0b-9f06-7d16a44f018d.html">8c3dfba3-1ca3-4e0b-9f06-7d16a44f018d</id>
+      <availability>
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:0LUFNzm6VgFDVW7zyPK31F">
+
+      <name>Maximum Dance 15</name>
+      <artist>
+        <name>Various Artists</name>
+      </artist>
+      <released/>
+      <id type="mbid" href="http://musicbrainz.org/release/1c4e65eb-8629-4478-b4de-0406738c83a7.html">1c4e65eb-8629-4478-b4de-0406738c83a7</id>
+      <availability>
+
+        <territories/>
+      </availability>
+    </album>
+    <album href="spotify:album:6B7Bp1q24wIqrl1zm5X5Eg">
+      <name>Take Me Back to Your House</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <released>2006</released>
+      <availability>
+        <territories>DE</territories>
+      </availability>
+    </album>
+  </albums>
+</artist>
