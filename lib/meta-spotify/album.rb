@@ -4,7 +4,7 @@ module MetaSpotify
     URI_REGEX = /^spotify:album:[A-Za-z0-9]+$/
     
     attr_reader :released, :artists, :available_territories, :tracks, :upc, 
-                :musicbrainz_id, :musicbrainz_href, :allmusic_id, :allmusic_href
+                :musicbrainz_id, :musicbrainz_uri, :allmusic_id, :allmusic_uri
     
     def initialize(hash)
       @name = hash['name']
@@ -35,10 +35,10 @@ module MetaSpotify
               @upc = id
             when 'mbid' then
               @musicbrainz_id = id
-              @musicbrainz_href = id.attributes['href']
+              @musicbrainz_uri = id.attributes['href']
             when 'amgid' then 
               @allmusic_id = id
-              @allmusic_href = id.attributes['href']
+              @allmusic_uri = id.attributes['href']
           end
         end
       end
