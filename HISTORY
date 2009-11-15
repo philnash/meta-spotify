@@ -1,6 +1,13 @@
+=== 0.1.2 / 2009-11-15
+
+* 2 minor enhancements
+
+  * Added proper access to musicbrainz, allmusic and upc ids
+  * added proper dependency for crack
+
 === 0.1.1 / 2009-11-8
 
-* 2 minor additions
+* 2 minor enhancements
 
   * Removed require 'rubygems'
   * added development dependencies
