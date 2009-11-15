@@ -9,7 +9,8 @@ begin
     gem.email = "philnash@gmail.com"
     gem.homepage = "http://github.com/philnash/meta-spotify"
     gem.authors = ["Phil Nash"]
-    gem.add_dependency('httparty')
+    gem.add_dependency 'httparty', ">= 0.4.5"
+    gem.add_dependency 'crack', ">= 0.1.4"
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     gem.add_development_dependency "fakeweb"
     gem.rubyforge_project = 'meta-spotify'
