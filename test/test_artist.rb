@@ -2,22 +2,43 @@ require 'helper'
 
 class TestArtist < Test::Unit::TestCase
   context "searching for an artist name" do
-    setup do
-      FakeWeb.register_uri(:get,
-                           "http://ws.spotify.com/search/1/artist?q=foo",
-                           :body => fixture_file("artist_search.xml"))
-      @results = MetaSpotify::Artist.search('foo')
+    context "many results" do
+      setup do
+        FakeWeb.register_uri(:get,
+                             "http://ws.spotify.com/search/1/artist?q=foo",
+                             :body => fixture_file("artist_search.xml"))
+        @results = MetaSpotify::Artist.search('foo')
+      end
+      should "return a list of results and search meta" do
+        assert_kind_of Array, @results[:artists]
+        assert_kind_of MetaSpotify::Artist, @results[:artists].first
+        assert_equal "Foo Fighters", @results[:artists].first.name
+        assert_equal 1, @results[:query][:start_page]
+        assert_equal 'request', @results[:query][:role]
+        assert_equal "foo", @results[:query][:search_terms]
+        assert_equal 100, @results[:items_per_page]
+        assert_equal 0, @results[:start_index]
+        assert_equal 9, @results[:total_results]
+      end
     end
-    should "return a list of results and search meta" do
-      assert_kind_of Array, @results[:artists]
-      assert_kind_of MetaSpotify::Artist, @results[:artists].first
-      assert_equal "Foo Fighters", @results[:artists].first.name
-      assert_equal 1, @results[:query][:start_page]
-      assert_equal 'request', @results[:query][:role]
-      assert_equal "foo", @results[:query][:search_terms]
-      assert_equal 100, @results[:items_per_page]
-      assert_equal 0, @results[:start_index]
-      assert_equal 9, @results[:total_results]
+    context "a single result" do
+      setup do
+        FakeWeb.register_uri(:get,
+                             "http://ws.spotify.com/search/1/artist?q=1200%20Micrograms",
+                             :body => fixture_file("artist_search_one_result.xml"))
+        @results = MetaSpotify::Artist.search('1200 Micrograms')
+      end
+      should "still return a list of results, for consistency" do
+        assert_kind_of Array, @results[:artists]
+        assert_kind_of MetaSpotify::Artist, @results[:artists].first
+        assert_equal "1200 Micrograms", @results[:artists].first.name
+        assert_equal 1, @results[:query][:start_page]
+        assert_equal 'request', @results[:query][:role]
+        assert_equal "1200 Micrograms", @results[:query][:search_terms]
+        assert_equal 100, @results[:items_per_page]
+        assert_equal 0, @results[:start_index]
+        assert_equal 1, @results[:total_results]
+      end
     end
   end
   

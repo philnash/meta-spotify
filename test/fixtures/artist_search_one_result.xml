@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artists xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="1200 Micrograms"/>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <artist href="spotify:artist:3AUNfvctGVnEOGZiAh0JIK">
+    <name>1200 Micrograms</name>
+
+    <popularity>0.48196</popularity>
+  </artist>
+</artists>

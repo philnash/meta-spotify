@@ -21,8 +21,12 @@ module MetaSpotify
       result = result[item_name+'s']
       items = []
       unless result[item_name].nil?
-        result[item_name].each do |item|
-          items << self.new(item)
+        if result[item_name].is_a? Array
+          result[item_name].each do |item|
+            items << self.new(item)
+          end
+        else
+          items << self.new(result[item_name])
         end
       end
       return { (item_name+'s').to_sym => items,
