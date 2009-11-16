@@ -5,22 +5,22 @@
 
 Gem::Specification.new do |s|
   s.name = %q{meta-spotify}
-  s.version = "0.1.0"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Phil Nash"]
-  s.date = %q{2009-10-30}
+  s.date = %q{2009-11-16}
   s.email = %q{philnash@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE",
-     "README.rdoc"
+     "README.markdown"
   ]
   s.files = [
     ".document",
      ".gitignore",
      "HISTORY",
      "LICENSE",
-     "README.rdoc",
+     "README.markdown",
      "Rakefile",
      "VERSION",
      "lib/meta-spotify.rb",
@@ -32,6 +32,8 @@ Gem::Specification.new do |s|
      "test/fixtures/album_search.xml",
      "test/fixtures/artist.xml",
      "test/fixtures/artist_search.xml",
+     "test/fixtures/artist_search_one_result.xml",
+     "test/fixtures/artist_with_albumdetail.xml",
      "test/fixtures/track.xml",
      "test/fixtures/track_search.xml",
      "test/fixtures/track_search_page_2.xml",
@@ -58,15 +60,21 @@ Gem::Specification.new do |s|
     s.specification_version = 3
 
     if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<httparty>, [">= 0"])
+      s.add_runtime_dependency(%q<httparty>, [">= 0.4.5"])
+      s.add_runtime_dependency(%q<crack>, [">= 0.1.4"])
       s.add_development_dependency(%q<thoughtbot-shoulda>, [">= 0"])
+      s.add_development_dependency(%q<fakeweb>, [">= 0"])
     else
-      s.add_dependency(%q<httparty>, [">= 0"])
+      s.add_dependency(%q<httparty>, [">= 0.4.5"])
+      s.add_dependency(%q<crack>, [">= 0.1.4"])
       s.add_dependency(%q<thoughtbot-shoulda>, [">= 0"])
+      s.add_dependency(%q<fakeweb>, [">= 0"])
     end
   else
-    s.add_dependency(%q<httparty>, [">= 0"])
+    s.add_dependency(%q<httparty>, [">= 0.4.5"])
+    s.add_dependency(%q<crack>, [">= 0.1.4"])
     s.add_dependency(%q<thoughtbot-shoulda>, [">= 0"])
+    s.add_dependency(%q<fakeweb>, [">= 0"])
   end
 end
 
