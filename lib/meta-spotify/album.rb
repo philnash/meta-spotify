@@ -8,6 +8,7 @@ module MetaSpotify
     
     def initialize(hash)
       @name = hash['name']
+      @popularity = hash['popularity'].to_f if hash.has_key? 'popularity'
       if hash.has_key? 'artist'
         @artists = []
         if hash['artist'].is_a? Array

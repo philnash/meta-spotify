@@ -10,7 +10,7 @@ module MetaSpotify
     include HTTParty
     base_uri 'http://ws.spotify.com'
     
-    attr_reader :name, :uri
+    attr_reader :name, :uri, :popularity
     
     def self.search(string, opts={})
       item_name = self.name.downcase.gsub(/^.*::/,'')

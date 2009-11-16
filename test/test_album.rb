@@ -28,6 +28,7 @@ class TestAlbum < Test::Unit::TestCase
       assert_kind_of Array, @results[:albums]
       assert_kind_of MetaSpotify::Album, @results[:albums].first
       assert_equal "Foo Foo", @results[:albums].first.name
+      assert_equal 0.29921, @results[:albums].first.popularity
       assert_equal 1, @results[:query][:start_page]
       assert_equal 'request', @results[:query][:role]
       assert_equal "foo", @results[:query][:search_terms]

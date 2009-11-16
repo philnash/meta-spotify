@@ -13,6 +13,7 @@ class TestArtist < Test::Unit::TestCase
         assert_kind_of Array, @results[:artists]
         assert_kind_of MetaSpotify::Artist, @results[:artists].first
         assert_equal "Foo Fighters", @results[:artists].first.name
+        assert_equal 0.89217, @results[:artists].first.popularity
         assert_equal 1, @results[:query][:start_page]
         assert_equal 'request', @results[:query][:role]
         assert_equal "foo", @results[:query][:search_terms]
@@ -30,8 +31,10 @@ class TestArtist < Test::Unit::TestCase
       end
       should "still return a list of results, for consistency" do
         assert_kind_of Array, @results[:artists]
+        assert_equal 1, @results[:artists].length
         assert_kind_of MetaSpotify::Artist, @results[:artists].first
         assert_equal "1200 Micrograms", @results[:artists].first.name
+        assert_equal 0.48196, @results[:artists].first.popularity
         assert_equal 1, @results[:query][:start_page]
         assert_equal 'request', @results[:query][:role]
         assert_equal "1200 Micrograms", @results[:query][:search_terms]

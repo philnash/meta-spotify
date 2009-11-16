@@ -7,6 +7,7 @@ module MetaSpotify
     
     def initialize(hash)
       @name = hash['name']
+      @popularity = hash['popularity'].to_f if hash.has_key? 'popularity'
       @uri = hash['href'] if hash.has_key? 'href'
       if hash.has_key? 'albums'
         @albums = []

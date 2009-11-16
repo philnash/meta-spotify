@@ -3,10 +3,11 @@ module MetaSpotify
     
     URI_REGEX = /^spotify:track:[A-Za-z0-9]+$/
   
-    attr_reader :album, :artists, :track_number, :length, :popularity
+    attr_reader :album, :artists, :track_number, :length
     
     def initialize(hash)
       @name = hash['name']
+      @popularity = hash['popularity'].to_f if hash.has_key? 'popularity'
       if hash.has_key? 'artist'
         @artists = []
         if hash['artist'].is_a? Array
@@ -17,7 +18,6 @@ module MetaSpotify
       end
       @album = Album.new(hash['album']) if hash.has_key? 'album'
       @track_number = hash['track_number'].to_i if hash.has_key? 'track_number'
-      @popularity = hash['popularity'].to_f if hash.has_key? 'popularity'
       @length = hash['length'].to_f if hash.has_key? 'length'
     end
   end
