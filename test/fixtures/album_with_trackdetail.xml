@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<album xmlns="http://www.spotify.com/ns/music/1">
+  <name>Remedy</name>
+  <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+    <name>Basement Jaxx</name>
+  </artist>
+  <released>1999</released>
+  <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dpfixqtkld0e">R   426481</id>
+
+  <id type="mbid" href="http://musicbrainz.org/release/3a3685aa-9c4d-42f8-a401-e34a89494041.html">3a3685aa-9c4d-42f8-a401-e34a89494041</id>
+  <id type="upc">634904012922</id>
+  <tracks>
+    <track href="spotify:track:3zBhJBEbDD4a4SO1EaEiBP">
+      <name>Rendez-vu</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:jifqxvlhldde">T  4201715</id>
+      <id type="mbid" href="http://musicbrainz.org/track/e230c541-78fb-4d08-99c9-ebcb111d7058.html">e230c541-78fb-4d08-99c9-ebcb111d7058</id>
+      <disc-number>1</disc-number>
+      <track-number>1</track-number>
+      <length>345.000000</length>
+
+      <popularity>0.51368</popularity>
+    </track>
+    <track href="spotify:track:6K9S1wuLaO6ADqSCMdDdfZ">
+      <name>Yo Yo</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:kifqxvlhldde">T  4201716</id>
+      <id type="mbid" href="http://musicbrainz.org/track/53539ebc-1b94-417b-9d28-09a0711ade8d.html">53539ebc-1b94-417b-9d28-09a0711ade8d</id>
+      <disc-number>1</disc-number>
+      <track-number>2</track-number>
+      <length>269.000000</length>
+      <popularity>0.48872</popularity>
+
+    </track>
+    <track href="spotify:track:7BOip2p6QyLq3eW8GYK32T">
+      <name>Jump N’ Shout Featuring Slarta John (radio Edit)</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:0ifqxvlhldde">T  4201717</id>
+
+      <id type="mbid" href="http://musicbrainz.org/track/e19fe9a1-32e2-42ab-847c-11964dfff00f.html">e19fe9a1-32e2-42ab-847c-11964dfff00f</id>
+      <disc-number>1</disc-number>
+      <track-number>3</track-number>
+      <length>282.000000</length>
+      <popularity>0.5152</popularity>
+    </track>
+
+    <track href="spotify:track:3N84nR1xt8zDZCKYd4RHQg">
+      <name>U Can’t Stop Me</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:aifqxvlhldde">T  4201718</id>
+      <id type="mbid" href="http://musicbrainz.org/track/c9ae8923-ef8d-4c31-905b-e2142956f02f.html">c9ae8923-ef8d-4c31-905b-e2142956f02f</id>
+
+      <disc-number>1</disc-number>
+      <track-number>4</track-number>
+      <length>220.000000</length>
+      <popularity>0.46732</popularity>
+    </track>
+    <track href="spotify:track:2WuDzMnERXnODpno1M9YJ8">
+      <name>Jaxxalude</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:wifqxvlhldde">T  4201719</id>
+      <id type="mbid" href="http://musicbrainz.org/track/0c6b7b66-2cca-45af-b3ff-371c176a2e3a.html">0c6b7b66-2cca-45af-b3ff-371c176a2e3a</id>
+      <disc-number>1</disc-number>
+      <track-number>5</track-number>
+
+      <length>35.000000</length>
+      <popularity>0.442</popularity>
+    </track>
+    <track href="spotify:track:5BU6Xs6oDgsTvAYW2ULGya">
+      <name>Red Alert</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:3ifwxvlhldde">T  4201720</id>
+      <id type="mbid" href="http://musicbrainz.org/track/44ecb9c2-b1c8-4b30-b84f-6adde2e49a6f.html">44ecb9c2-b1c8-4b30-b84f-6adde2e49a6f</id>
+      <disc-number>1</disc-number>
+      <track-number>6</track-number>
+      <length>257.000000</length>
+
+      <popularity>0.50162</popularity>
+    </track>
+    <track href="spotify:track:2xbGAbivOgd4r6fuex7UgU">
+      <name>Jazzalude</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:difwxvlhldde">T  4201721</id>
+      <id type="mbid" href="http://musicbrainz.org/track/3dbc58a9-ee11-4cab-a931-af4639e1d04f.html">3dbc58a9-ee11-4cab-a931-af4639e1d04f</id>
+      <disc-number>1</disc-number>
+      <track-number>7</track-number>
+      <length>23.000000</length>
+      <popularity>0.05035</popularity>
+
+    </track>
+    <track href="spotify:track:50EmQsHyT7QREceJDvhstr">
+      <name>Always Be There</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:fifwxvlhldde">T  4201722</id>
+
+      <id type="mbid" href="http://musicbrainz.org/track/edc37f98-bcee-4661-b5f8-791c945297b2.html">edc37f98-bcee-4661-b5f8-791c945297b2</id>
+      <disc-number>1</disc-number>
+      <track-number>8</track-number>
+      <length>384.000000</length>
+      <popularity>0.46201</popularity>
+    </track>
+
+    <track href="spotify:track:0O0e7tVwf3BvPDMc3kvD3e">
+      <name>Sneakalude</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:gifwxvlhldde">T  4201723</id>
+      <id type="mbid" href="http://musicbrainz.org/track/24aeb178-32fb-44e3-846a-899d8fab410c.html">24aeb178-32fb-44e3-846a-899d8fab410c</id>
+
+      <disc-number>1</disc-number>
+      <track-number>9</track-number>
+      <length>11.000000</length>
+      <popularity>0.02389</popularity>
+    </track>
+    <track href="spotify:track:4FwhEvZ5HwviSJlMgDIioT">
+      <name>Same Old Show</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:hifwxvlhldde">T  4201724</id>
+      <id type="mbid" href="http://musicbrainz.org/track/5a84374f-5705-43cb-b6ee-1a8ecfd7668f.html">5a84374f-5705-43cb-b6ee-1a8ecfd7668f</id>
+      <disc-number>1</disc-number>
+      <track-number>10</track-number>
+
+      <length>355.000000</length>
+      <popularity>0.43669</popularity>
+    </track>
+    <track href="spotify:track:1xJW8GKZeugt3hdG1khWzr">
+      <name>Bingo Bango</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:jifwxvlhldde">T  4201725</id>
+      <id type="mbid" href="http://musicbrainz.org/track/9a157f10-7fc4-427c-bcf9-eb27d1f99fed.html">9a157f10-7fc4-427c-bcf9-eb27d1f99fed</id>
+      <disc-number>1</disc-number>
+      <track-number>11</track-number>
+      <length>358.000000</length>
+
+      <popularity>0.4691</popularity>
+    </track>
+    <track href="spotify:track:0SNCZ71vAXD5cBJqOeTdT3">
+      <name>Gemilude</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:kifwxvlhldde">T  4201726</id>
+      <id type="mbid" href="http://musicbrainz.org/track/fbf36bbe-4bbc-4ce6-964f-3876771f48f4.html">fbf36bbe-4bbc-4ce6-964f-3876771f48f4</id>
+      <disc-number>1</disc-number>
+      <track-number>12</track-number>
+      <length>47.000000</length>
+      <popularity>0.42168</popularity>
+
+    </track>
+    <track href="spotify:track:2cC8NxlxmxbYLiUMpIdKtx">
+      <name>Stop 4 Love</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:0ifwxvlhldde">T  4201727</id>
+
+      <id type="mbid" href="http://musicbrainz.org/track/a844f07b-719b-46ce-865a-38ca22b39fd3.html">a844f07b-719b-46ce-865a-38ca22b39fd3</id>
+      <disc-number>1</disc-number>
+      <track-number>13</track-number>
+      <length>293.000000</length>
+      <popularity>0.43011</popularity>
+    </track>
+
+    <track href="spotify:track:74zYl706xnBU4XOa3TkiGQ">
+      <name>Don’t Give Up</name>
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:aifwxvlhldde">T  4201728</id>
+      <id type="mbid" href="http://musicbrainz.org/track/343db7af-5d1d-438f-8ff1-dca5ff647f4b.html">343db7af-5d1d-438f-8ff1-dca5ff647f4b</id>
+
+      <disc-number>1</disc-number>
+      <track-number>14</track-number>
+      <length>314.000000</length>
+      <popularity>0.42621</popularity>
+    </track>
+    <track href="spotify:track:5DI6EbdlFuq1Bf5GHAGe6b">
+      <name>Being With U</name>
+
+      <artist href="spotify:artist:4YrKBkKSVeqDamzBPWVnSJ">
+        <name>Basement Jaxx</name>
+      </artist>
+      <id type="amgid" href="http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=33:wifwxvlhldde">T  4201729</id>
+      <id type="mbid" href="http://musicbrainz.org/track/a06bc999-e816-4273-80c3-f813f8bf2df4.html">a06bc999-e816-4273-80c3-f813f8bf2df4</id>
+      <disc-number>1</disc-number>
+      <track-number>15</track-number>
+
+      <length>229.000000</length>
+      <popularity>0.42671</popularity>
+    </track>
+  </tracks>
+  <availability>
+    <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+  </availability>
+
+</album>

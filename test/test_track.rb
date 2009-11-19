@@ -45,6 +45,7 @@ class TestTrack < Test::Unit::TestCase
       assert_equal 1, @result.track_number
       assert_equal 345, @result.length
       assert_equal 0.51368, @result.popularity
+      assert_equal TRACK_URI, @result.uri
     end
     should "create an album object for that track" do
       assert_kind_of MetaSpotify::Album, @result.album

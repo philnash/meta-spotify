@@ -55,6 +55,7 @@ class TestArtist < Test::Unit::TestCase
     should "fetch an artist and return an artist object" do
       assert_kind_of MetaSpotify::Artist, @result
       assert_equal "Basement Jaxx", @result.name
+      assert_equal ARTIST_URI, @result.uri
     end
     should "fail trying to look up an album" do
       assert_raises MetaSpotify::URIError do

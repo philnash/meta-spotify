@@ -49,12 +49,13 @@ module MetaSpotify
       result = get("/lookup/#{API_VERSION}/",:query => query, :format => :xml)
       raise_errors(result)
       result.each do |k,v|
+        v.merge!({'href' => uri})
         case k
         when "artist"
           return Artist.new(v)
         when "album"
           return Album.new(v)
-        when "track"
+        when "track"          
           return Track.new(v)
         end
       end

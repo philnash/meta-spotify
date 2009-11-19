@@ -48,6 +48,7 @@ class TestAlbum < Test::Unit::TestCase
     should "fetch an album and return an album object" do
       assert_kind_of MetaSpotify::Album, @result
       assert_equal "Remedy", @result.name
+      assert_equal ALBUM_URI, @result.uri
       assert_equal "1999", @result.released
       assert_equal "634904012922", @result.upc
       assert_equal "3a3685aa-9c4d-42f8-a401-e34a89494041", @result.musicbrainz_id
@@ -63,6 +64,20 @@ class TestAlbum < Test::Unit::TestCase
       assert_raises MetaSpotify::URIError do
         MetaSpotify::Album.lookup(TRACK_URI)
       end
+    end
+  end
+  context "looking up an album with extra details" do
+    setup do
+      FakeWeb.register_uri(:get,
+                           "http://ws.spotify.com/lookup/1/?extras=trackdetail&uri=#{CGI.escape ALBUM_URI}",
+                           :body => fixture_file('album_with_trackdetail.xml'))
+      @result = MetaSpotify::Album.lookup(ALBUM_URI, :extras => 'trackdetail')
+    end
+    
+    should "fetch an album and return an object with more detailed track information" do
+      assert_kind_of MetaSpotify::Album, @result
+      assert_kind_of MetaSpotify::Track, @result.tracks.first
+      assert_equal 'Rendez-vu', @result.tracks.first.name
     end
   end
 end
