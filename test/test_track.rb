@@ -46,6 +46,8 @@ class TestTrack < Test::Unit::TestCase
       assert_equal 345, @result.length
       assert_equal 0.51368, @result.popularity
       assert_equal TRACK_URI, @result.uri
+      assert_equal "e230c541-78fb-4d08-99c9-ebcb111d7058", @result.musicbrainz_id
+      assert_equal "http://www.allmusic.com/cg/amg.dll?p=amg&sql=33:jifqxvlhldde", @result.allmusic_uri
     end
     should "create an album object for that track" do
       assert_kind_of MetaSpotify::Album, @result.album
