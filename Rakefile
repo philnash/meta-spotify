@@ -9,15 +9,13 @@ begin
     gem.email = "philnash@gmail.com"
     gem.homepage = "http://github.com/philnash/meta-spotify"
     gem.authors = ["Phil Nash"]
-    gem.add_dependency 'httparty', ">= 0.4.5"
+    gem.add_dependency 'httparty', [">= 0.4.5", "< 0.8"]
     gem.add_dependency 'crack', ">= 0.1.4"
     gem.add_development_dependency "shoulda", ">= 2.10.2"
     gem.add_development_dependency "fakeweb", ">= 1.2.4"
-    gem.rubyforge_project = 'meta-spotify'
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
-  Jeweler::RubyforgeTasks.new
 rescue LoadError
   puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
 end
