@@ -31,13 +31,13 @@ module MetaSpotify
       end
       return { (item_name+'s').to_sym => items,
                :query => {
-                 :start_page => result["opensearch:Query"]["startPage"].to_i,
-                 :role => result["opensearch:Query"]["role"],
-                 :search_terms => result["opensearch:Query"]["searchTerms"]
+                 :start_page => result["opensearch:Query"].try(:[], "startPage").nil? ? result["opensearch:Query"] : result["opensearch:Query"]["startPage"],
+                 :role => result["opensearch:Query"].try(:[], "role").nil? ? result["opensearch:Query"] : result["opensearch:Query"]["role"],
+                 :search_terms => result["opensearch:Query"].try(:[], "searchTerms").nil? ? result["opensearch:Query"] : result["opensearch:Query"]["searchTerms"]
                },
-               :items_per_page => result["opensearch:itemsPerPage"].to_i,
-               :start_index => result["opensearch:startIndex"].to_i,
-               :total_results => result["opensearch:totalResults"].to_i
+               :items_per_page => result["opensearch:itemsPerPage"],
+               :start_index => result["opensearch:startIndex"],
+               :total_results => result["opensearch:totalResults"]
               }
     end
     
