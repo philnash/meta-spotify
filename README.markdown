@@ -19,6 +19,7 @@ To look up an artist, album or track, simply call:
     MetaSpotify::Artist.lookup(spotify_uri)
     MetaSpotify::Album.lookup(spotify_uri)
 or
+
     MetaSpotify::Track.lookup(spotify_uri)
 
 e.g.
