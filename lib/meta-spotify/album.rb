@@ -31,15 +31,15 @@ module MetaSpotify
       if hash['id'].is_a? Array
         
         hash['id'].each do |id|
-          case id.attributes['type']
+          case id['type']
             when 'upc' then 
-              @upc = id
+              @upc = id['__content__']
             when 'mbid' then
-              @musicbrainz_id = id
-              @musicbrainz_uri = id.attributes['href']
+              @musicbrainz_id = id['__content__']
+              @musicbrainz_uri = id['href']
             when 'amgid' then 
-              @allmusic_id = id
-              @allmusic_uri = id.attributes['href']
+              @allmusic_id = id['__content__']
+              @allmusic_uri = id['href']
           end
         end
       end
