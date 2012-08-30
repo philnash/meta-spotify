@@ -1,13 +1,27 @@
+=== 0.2.0 / 2012-08-31
+
+* 1 major update
+
+  * Updated to use Httparty > 0.8
+
+Also removed Jeweler and dependency on Crack.
+
+=== 0.1.6 / 2012-03-12
+
+* 1 bug fix
+
+  * restricted Httparty to < 0.8
+
 === 0.1.5 / 2009-12-19
 
 * 1 minor enhancement
- 
+
   * Added access to musicbrainz and allmusic ids for tracks
 
 === 0.1.4 / 2009-11-19
 
 * 2 minor enhancements
- 
+
   * Now stores the URI of the original object looked up
   * Tests for an album lookup with track details
 
@@ -16,11 +30,11 @@
 * 1 minor enhancement
 
   * Added popularity to artists and albums when they are a result of a search
-  
+
 * 1 bug fix
 
   * Search results with only one result were failing
-  
+
 === 0.1.2 / 2009-11-15
 
 * 2 minor enhancements
