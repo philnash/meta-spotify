@@ -3,15 +3,15 @@ $:.unshift File.dirname(__FILE__)
 require 'httparty'
 
 module MetaSpotify
-  
+
   API_VERSION = '1'
-  
+
   class Base
     include HTTParty
     base_uri 'http://ws.spotify.com'
-    
+
     attr_reader :name, :uri, :popularity
-    
+
     def self.search(string, opts={})
       item_name = self.name.downcase.gsub(/^.*::/,'')
       query = {:q => string}
@@ -40,7 +40,7 @@ module MetaSpotify
                :total_results => result["totalResults"].to_i
               }
     end
-    
+
     def self.lookup(uri, opts={})
       uri = uri.strip
       raise URIError.new("Spotify URI not in the correct syntax") unless self::URI_REGEX.match(uri)
@@ -55,14 +55,14 @@ module MetaSpotify
           return Artist.new(v)
         when "album"
           return Album.new(v)
-        when "track"          
+        when "track"
           return Track.new(v)
         end
       end
     end
-    
+
     private
-    
+
     def self.raise_errors(response)
       case response.code
       when 400
@@ -79,12 +79,12 @@ module MetaSpotify
         raise ServerError.new('503 - The API is temporarily unavailable')
       end
     end
-    
+
   end
-  
+
   class MetaSpotifyError < StandardError
     attr_reader :data
-    
+
     def initialize(data)
       @data = data
       super
@@ -100,3 +100,4 @@ end
 require 'meta-spotify/artist'
 require 'meta-spotify/track'
 require 'meta-spotify/album'
+require 'meta-spotify/version'
