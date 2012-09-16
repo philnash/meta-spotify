@@ -10,11 +10,17 @@ class TestTrack < Test::Unit::TestCase
     end
     should "return a list of results and search meta" do
       assert_kind_of Array, @results[:tracks]
-      assert_kind_of MetaSpotify::Track, @results[:tracks].first
-      assert_equal "Big Me", @results[:tracks].first.name
-      assert_equal 1, @results[:query][:start_page]
-      assert_equal 'request', @results[:query][:role]
-      assert_equal "foo", @results[:query][:search_terms]
+
+      track = @results[:tracks].first
+      assert_kind_of MetaSpotify::Track, track
+      assert_equal "Big Me", track.name
+      assert_equal '6pb5BBnIM5IM7R1cqag6rE', track.spotify_id
+      assert_equal 'http://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE', track.http_uri
+
+      query = @results[:query]
+      assert_equal 1, query[:start_page]
+      assert_equal 'request', query[:role]
+      assert_equal "foo", query[:search_terms]
       assert_equal 100, @results[:items_per_page]
       assert_equal 0, @results[:start_index]
       assert_equal 486, @results[:total_results]
@@ -48,6 +54,8 @@ class TestTrack < Test::Unit::TestCase
       assert_equal TRACK_URI, @result.uri
       assert_equal "e230c541-78fb-4d08-99c9-ebcb111d7058", @result.musicbrainz_id
       assert_equal "http://www.allmusic.com/cg/amg.dll?p=amg&sql=33:jifqxvlhldde", @result.allmusic_uri
+      assert_equal '3zBhJBEbDD4a4SO1EaEiBP', @result.spotify_id
+      assert_equal 'http://open.spotify.com/track/3zBhJBEbDD4a4SO1EaEiBP', @result.http_uri
     end
     should "create an album object for that track" do
       assert_kind_of MetaSpotify::Album, @result.album

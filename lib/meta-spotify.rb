@@ -12,6 +12,10 @@ module MetaSpotify
 
     attr_reader :name, :uri, :popularity
 
+    def self.uri_regex
+      nil
+    end
+
     def self.search(string, opts={})
       item_name = self.name.downcase.gsub(/^.*::/,'')
       query = {:q => string}
@@ -43,7 +47,7 @@ module MetaSpotify
 
     def self.lookup(uri, opts={})
       uri = uri.strip
-      raise URIError.new("Spotify URI not in the correct syntax") unless self::URI_REGEX.match(uri)
+      raise URIError.new("Spotify URI not in the correct syntax") unless uri_regex.match(uri)
       query = {:uri => uri}
       query[:extras] = opts[:extras] if opts.has_key? :extras
       result = get("/lookup/#{API_VERSION}/",:query => query, :format => :xml)
@@ -58,6 +62,14 @@ module MetaSpotify
         when "track"
           return Track.new(v)
         end
+      end
+    end
+
+    def spotify_id
+      if uri
+        uri[self.class.uri_regex, 1]
+      else
+        nil
       end
     end
 

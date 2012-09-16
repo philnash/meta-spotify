@@ -1,7 +1,9 @@
 module MetaSpotify
   class Album < MetaSpotify::Base
     
-    URI_REGEX = /^spotify:album:[A-Za-z0-9]+$/
+    def self.uri_regex
+      /^spotify:album:([A-Za-z0-9]+)$/
+    end
     
     attr_reader :released, :artists, :available_territories, :tracks, :upc, 
                 :musicbrainz_id, :musicbrainz_uri, :allmusic_id, :allmusic_uri
@@ -58,5 +60,10 @@ module MetaSpotify
     def is_not_available_in?(territory)
       !is_available_in?(territory)
     end
+
+    def http_uri
+      "http://open.spotify.com/album/#{spotify_id}"
+    end
+
   end
 end

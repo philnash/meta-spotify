@@ -1,7 +1,9 @@
 module MetaSpotify
   class Track < MetaSpotify::Base
     
-    URI_REGEX = /^spotify:track:[A-Za-z0-9]+$/
+    def self.uri_regex
+      /^spotify:track:([A-Za-z0-9]+)$/
+    end
   
     attr_reader :album, :artists, :track_number, :length,
                 :musicbrainz_id, :musicbrainz_uri, :allmusic_id, :allmusic_uri
@@ -36,5 +38,10 @@ module MetaSpotify
         end
       end
     end
+
+    def http_uri
+      "http://open.spotify.com/track/#{spotify_id}"
+    end
+
   end
 end
