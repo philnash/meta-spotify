@@ -1,7 +1,9 @@
 module MetaSpotify
   class Artist < MetaSpotify::Base
     
-    URI_REGEX = /^spotify:artist:[A-Za-z0-9]+$/
+    def self.uri_regex
+      /^spotify:artist:([A-Za-z0-9]+)$/
+    end
     
     attr_reader :albums
     
@@ -18,5 +20,10 @@ module MetaSpotify
         end
       end
     end
+
+    def http_uri
+      "http://open.spotify.com/artist/#{spotify_id}"
+    end
+
   end
 end

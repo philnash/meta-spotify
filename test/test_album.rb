@@ -26,12 +26,19 @@ class TestAlbum < Test::Unit::TestCase
     end
     should "return a list of results and search meta" do
       assert_kind_of Array, @results[:albums]
-      assert_kind_of MetaSpotify::Album, @results[:albums].first
-      assert_equal "Foo Foo", @results[:albums].first.name
-      assert_equal 0.29921, @results[:albums].first.popularity
-      assert_equal 1, @results[:query][:start_page]
-      assert_equal 'request', @results[:query][:role]
-      assert_equal "foo", @results[:query][:search_terms]
+
+      album = @results[:albums].first
+      assert_kind_of MetaSpotify::Album, album
+      assert_equal "Foo Foo", album.name
+      assert_equal 0.29921, album.popularity
+      assert_equal '7KXRgAg4K6eXjlYIIXzt3T', album.spotify_id
+      assert_equal 'http://open.spotify.com/album/7KXRgAg4K6eXjlYIIXzt3T', album.http_uri
+
+      query = @results[:query]
+      assert_equal 1, query[:start_page]
+      assert_equal 'request', query[:role]
+      assert_equal "foo", query[:search_terms]
+
       assert_equal 100, @results[:items_per_page]
       assert_equal 0, @results[:start_index]
       assert_equal 6, @results[:total_results]
@@ -53,6 +60,8 @@ class TestAlbum < Test::Unit::TestCase
       assert_equal "634904012922", @result.upc
       assert_equal "3a3685aa-9c4d-42f8-a401-e34a89494041", @result.musicbrainz_id
       assert_equal "http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:dpfixqtkld0e", @result.allmusic_uri
+      assert_equal '6G9fHYDCoyEErUkHrFYfs4', @result.spotify_id
+      assert_equal 'http://open.spotify.com/album/6G9fHYDCoyEErUkHrFYfs4', @result.http_uri
     end
     should "create an artist object for that album" do
       assert_kind_of Array, @result.artists
