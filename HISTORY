@@ -1,3 +1,9 @@
+=== 0.3.0 / 2012-10-9
+
+* 1 minor update
+
+  * Adds http_uri method to artist, album and track
+
 === 0.2.0 / 2012-08-31
 
 * 1 major update
