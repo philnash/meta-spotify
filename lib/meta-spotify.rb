@@ -1,6 +1,7 @@
 $:.unshift File.dirname(__FILE__)
 
 require 'httparty'
+require 'uri'
 
 module MetaSpotify
 
@@ -20,7 +21,10 @@ module MetaSpotify
       item_name = self.name.downcase.gsub(/^.*::/,'')
       query = {:q => string}
       query[:page] = opts[:page].to_s if opts.has_key? :page
-      result = get("/search/#{API_VERSION}/#{item_name}", :query => query, :format => :xml)
+      result = get("/search/#{API_VERSION}/#{item_name}",
+        :query => query,
+        :format => :xml,
+        :query_string_normalizer => self.method(:normalize))
       raise_errors(result)
       result = result[item_name+'s']
       items = []
@@ -87,9 +91,19 @@ module MetaSpotify
         raise BadRequestError.new('406 - The requested format isn\'t available')
       when 500
         raise ServerError.new('500 - The server encountered an unexpected problem')
+      when 502
+        raise ServerError.new('502 - The API internally received a bad response')
       when 503
         raise ServerError.new('503 - The API is temporarily unavailable')
       end
+    end
+
+    def self.normalize(query)
+      stack = []
+      query.each do |key, value|
+        stack.push "#{key}=#{URI.encode_www_form_component value}"
+      end
+      stack.join("&")
     end
 
   end
