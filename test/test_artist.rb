@@ -31,7 +31,7 @@ class TestArtist < Test::Unit::TestCase
     context "a single result" do
       setup do
         FakeWeb.register_uri(:get,
-                             "http://ws.spotify.com/search/1/artist?q=1200%20Micrograms",
+                             "http://ws.spotify.com/search/1/artist?q=1200+Micrograms",
                              :body => fixture_file("artist_search_one_result.xml"))
         @results = MetaSpotify::Artist.search('1200 Micrograms')
       end
@@ -56,7 +56,7 @@ class TestArtist < Test::Unit::TestCase
       end
     end
   end
-  
+
   context "looking up an artist" do
     setup do
       FakeWeb.register_uri(:get,
@@ -75,7 +75,7 @@ class TestArtist < Test::Unit::TestCase
       end
     end
   end
-  
+
   context "looking up an artist with detailed album information" do
     setup do
       FakeWeb.register_uri(:get,
