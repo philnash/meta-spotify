@@ -55,6 +55,7 @@ class TestTrack < Test::Unit::TestCase
       assert_equal "e230c541-78fb-4d08-99c9-ebcb111d7058", @result.musicbrainz_id
       assert_equal "http://www.allmusic.com/cg/amg.dll?p=amg&sql=33:jifqxvlhldde", @result.allmusic_uri
       assert_equal '3zBhJBEbDD4a4SO1EaEiBP', @result.spotify_id
+      assert_equal 'GBBKS9900090', @result.isrc_id
       assert_equal 'http://open.spotify.com/track/3zBhJBEbDD4a4SO1EaEiBP', @result.http_uri
     end
     should "create an album object for that track" do
