@@ -1,3 +1,15 @@
+=== 0.3.2 / 2014-01-25
+
+* 1 minor update
+
+  * Exposes track ISRC
+
+=== 0.3.1 / 2013-03-16
+
+* 1 minor update
+
+  * Proper query string submission
+
 === 0.3.0 / 2012-10-9
 
 * 1 minor update
