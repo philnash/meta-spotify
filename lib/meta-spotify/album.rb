@@ -45,7 +45,7 @@ module MetaSpotify
           end
         end
       else
-        @upc = hash['id']
+        @upc = hash['id']['__content__']
       end
       
       @available_territories = if hash.has_key?('availability') && !hash['availability']['territories'].nil?
