@@ -44,6 +44,8 @@ module MetaSpotify
               @allmusic_uri = id['href']
           end
         end
+      else
+        @upc = hash['id']
       end
       
       @available_territories = if hash.has_key?('availability') && !hash['availability']['territories'].nil?
