@@ -16,7 +16,7 @@ class TestAlbum < Test::Unit::TestCase
       assert @worldwide_album.is_available_in?('UK')
     end
   end
-  
+
   context "searching for an album name" do
     setup do
       FakeWeb.register_uri(:get,
@@ -44,7 +44,7 @@ class TestAlbum < Test::Unit::TestCase
       assert_equal 6, @results[:total_results]
     end
   end
-  
+
   context "looking up a album" do
     setup do
       FakeWeb.register_uri(:get,
@@ -75,6 +75,25 @@ class TestAlbum < Test::Unit::TestCase
       end
     end
   end
+
+  context "looking up an album with just an upc code" do
+    setup do
+      FakeWeb.register_uri(:get,
+                           "http://ws.spotify.com/lookup/1/?uri=#{CGI.escape ALBUM_ONE_UPC_URI}",
+                           :body => fixture_file("album_one_upc.xml"))
+      @result = MetaSpotify::Album.lookup(ALBUM_ONE_UPC_URI)
+    end
+    should "fetch an album and return an album object" do
+      assert_kind_of MetaSpotify::Album, @result
+      assert_equal "Aleph", @result.name
+      assert_equal ALBUM_ONE_UPC_URI, @result.uri
+      assert_equal "2013", @result.released
+      assert_equal "825646397471", @result.upc
+      assert_equal '3MiiF9utmtGnLVITgl0JP7', @result.spotify_id
+      assert_equal 'http://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7', @result.http_uri
+    end
+  end
+
   context "looking up an album with extra details" do
     setup do
       FakeWeb.register_uri(:get,
@@ -82,7 +101,7 @@ class TestAlbum < Test::Unit::TestCase
                            :body => fixture_file('album_with_trackdetail.xml'))
       @result = MetaSpotify::Album.lookup(ALBUM_URI, :extras => 'trackdetail')
     end
-    
+
     should "fetch an album and return an object with more detailed track information" do
       assert_kind_of MetaSpotify::Album, @result
       assert_kind_of MetaSpotify::Track, @result.tracks.first
