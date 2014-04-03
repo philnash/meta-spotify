@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<album xmlns="http://www.spotify.com/ns/music/1">
+  <name>Aleph</name>
+  <artist href="spotify:artist:3hteYQFiMFbJY7wS0xDymP">
+    <name>Gesaffelstein</name>
+  </artist>
+  <released>2013</released>
+  <id type="upc">825646397471</id>
+  <availability>
+    <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+  </availability>
+</album>
