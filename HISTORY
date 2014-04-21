@@ -1,3 +1,9 @@
+=== 0.3.3 / 2014-04-21
+
+* 1 minor update
+
+  * Adds UPC variable attribution for albums where UPC is not a hash
+
 === 0.3.2 / 2014-01-25
 
 * 1 minor update
