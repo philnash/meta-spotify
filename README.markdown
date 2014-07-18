@@ -1,3 +1,9 @@
+# Deprecation Warning
+
+The Spotify Metadata API has been deprecated. Please use the new [Spotify Web
+API](https://developer.spotify.com/web-api/) instead. If you are looking for a
+ruby library for that, try [RSpotify](https://github.com/guilhermesad/rspotify).
+
 # meta-spotify
 
 A ruby wrapper for the Spotify Metadata API. See here for usage: http://developer.spotify.com/en/metadata-api/overview/
